@@ -1,4 +1,4 @@
-# 💰 Indain Currency Recognition System
+# 💰 Indian Currency Recognition System
 
 A deep learning–based system that automatically recognizes Indian currency denominations from images using **Convolutional Neural Networks (CNNs)**.  
 This project was built to demonstrate how AI can bridge accessibility, automation, and accuracy in real-world financial scenarios.
